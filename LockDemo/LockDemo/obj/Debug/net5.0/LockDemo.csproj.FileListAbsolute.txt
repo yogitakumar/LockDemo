@@ -1,0 +1,16 @@
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\bin\Debug\net5.0\LockDemo.exe
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\bin\Debug\net5.0\LockDemo.deps.json
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\bin\Debug\net5.0\LockDemo.runtimeconfig.json
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\bin\Debug\net5.0\LockDemo.runtimeconfig.dev.json
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\bin\Debug\net5.0\LockDemo.dll
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\bin\Debug\net5.0\ref\LockDemo.dll
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\bin\Debug\net5.0\LockDemo.pdb
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\obj\Debug\net5.0\LockDemo.csproj.AssemblyReference.cache
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\obj\Debug\net5.0\LockDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\obj\Debug\net5.0\LockDemo.AssemblyInfoInputs.cache
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\obj\Debug\net5.0\LockDemo.AssemblyInfo.cs
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\obj\Debug\net5.0\LockDemo.csproj.CoreCompileInputs.cache
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\obj\Debug\net5.0\LockDemo.dll
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\obj\Debug\net5.0\ref\LockDemo.dll
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\obj\Debug\net5.0\LockDemo.pdb
+C:\Users\Yogita\source\repos\LockDemo\LockDemo\obj\Debug\net5.0\LockDemo.genruntimeconfig.cache
